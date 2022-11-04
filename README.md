@@ -1,2 +1,0 @@
-# elugensweb
-elugens.com
